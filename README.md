@@ -1,1 +1,4 @@
-# stronaNginxwTerraformiewrazzdnsemk3s
+# mój homelab
+
+24.03.2026
+strona nginx:stable z dnsem (traefik) na k3s
