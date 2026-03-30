@@ -8,7 +8,7 @@ resource "kubernetes_ingress_v1" "strona1dns" {
   }
   spec {
     rule {
-      host = "nginx.192.168.31.195.nip.io"
+      host = var.dns
       http {
         path {
           path = "/"
