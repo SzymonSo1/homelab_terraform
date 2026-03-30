@@ -8,6 +8,6 @@ strona nginx:stable z dnsem (traefik) na k3s
 ```
 +--------------+                +---------------+
 | Komputer     |      ======\   | Virtualbox VM |
-| (terraformem)|      ======/   |   (k3s)       |
+| (terraform)|      ======/   |   (k3s)       |
 +--------------+                +---------------+
 ```
